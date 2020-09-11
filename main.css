@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  font-size:24px;
+  text-align: center;
+}
+
+.odd {
+    color: blue;
+}
+
+.even {
+    color: green;
+      text-transform: uppercase;
+}
+
+#hed1 {
+    color: blck;
+}
+
+figcaption {
+    color: gray;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+ul {
+    color: blue;
+}
+
+p {
+    font: small-caps bold
+    12px/30px Gerogia,serif;
+}
+
+/p {
+    font: small-caps bold
+    12px/30px Gerogia,serif;
+}
